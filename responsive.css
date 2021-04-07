@@ -1,0 +1,72 @@
+
+
+@media (max-width:1400px){
+    .default-header {
+        margin-top:30px !important;
+
+    }
+ }
+ 
+
+@media (max-width:1200px){
+    .default-header {
+        padding: 0px !important;
+    }
+    .header-up {
+        top:0px !important;
+    }
+ }
+
+ @media (max-width:1000px){
+    .default-header p {
+        margin-top: 7px;
+        font-size: 15px;
+    }
+    .default-header h1 {
+    font-size: 38px !important;
+    }
+    .default-header h2 {
+    font-size: 31px !important;
+    }
+
+ }
+ @media (max-width:992px){
+}
+    .custome-header h5 {
+        font-size: 26px;
+    }
+    .custome-header h1 {
+        font-size: 50px !important;
+    }
+    .custome-header p {
+    
+        font-size: 16px !important;
+    }
+    .buy-icon {
+        margin-bottom: 30px;
+    }
+    .buy-icon h2 {
+        font-size: 20px !important;
+    }
+    .clint-smile {
+        margin-left: 85px !important;
+    }
+    .clint-info p {
+    font-size: 16px !important;
+    }
+
+ }
+ @media (max-width:768px){
+    .buy-icon {
+        padding: 0px !important;
+    }
+    .clint-info p {
+        font-size: 12px !important;
+        }
+    
+ }
+
+
+
+
+
